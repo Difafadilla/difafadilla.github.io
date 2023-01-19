@@ -1,0 +1,193 @@
+---
+title: "ANALISIS EKSPOR IKAN SEGAR KE NEGARA MALAYSIA TERHADAP NILAI TUKAR RUPIAH TAHUN 2012-2021"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Difa Fadilla Arsanti Pratami"
+date: 2023-01-19
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+This **just** a ~~showcase~~ of what *Quarto* docs can produce. I use this part for my students.
+
+![](poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Ekspor merupakan kegiatan yang berperan penting dalam kemajuan perekonomian suatu negara,dilihat dari segi lalu lintas devisa dan pendapatan nasional. Ekspor adalah pengeluaran barang dari daerah pabean Indonesia untuk dikirim ke luar negeri dengan mengikuti ketentuan yang berlaku terutama mengenai peraturan kepabeanan (Marolop, 2011:63). Kegiatan ekspor sendiri dilakukan oleh sebuah perusahaan skala kecil hingga skala menengah untuk dapat bersaing dalam skala pasar internasional.
+
+Secara geografis,wilayah Indonesia berada pada posisi yang strategis antara dua Benua dan dua Samudera. Posisi ini menyebabkan Indonesia memiliki potensi perikanan sangat besar, dimana perikanan merupakan salah satu subsektor pertanian yang menopang perekonomian Indonesia. Sumberdaya perikanan merupakan barang umum (good common) yang bersifat open access, artinya setiap orang berhak menangkap ikan dan mengeksploitasi sumberdaya hayati lainnya kapan saja, dimana saja,berapapun jumlahnya, dan dengan alat apa saja. Sumberdaya perikanan dan kelautan yang sangat besar dan permintaan yang tinggi baik di dalam maupun di luar negeri, merupakan kesempatan untuk memperbaiki perekonomian negara melalui pemanfaatan sumberdaya perikanan yang ada. Indonesia memiliki peluang yang sangat besar untuk menjadi salah satu produsen dan eksportir utama produk perikanan. Peningkatan konsumsi produk perikanan juga menyebabkan tuntutan pasar terhadap jaminan kualitas dan keamanan yang selanjutnya mempengaruhi tingkat permintaan suplai bahan baku (raw material) produk perikanan yang semakin hari semakin bertambah, hal ini menyebabkan persaingan pasar yang terus menerus sedangkan sisi lain kita harus mempersiapkan eksportir perikanan yang mampu berdaya saing.
+
+Sumber daya perikanan dan kelautan yang sangat besar dan permintaan yang tinggi baik didalam maupun di luar negri, merupakan kesempatan untuk memperbaiki perekonomian negara melalui pemanfaatan sumberdaya perikanan yang ada . Oleh karena itu sektor perikanan memiliki peluang yang cukup besar untuk dapat berkembang, baik dari subsektor budidaya maupun hasil tangkapnya.
+
+Sebagai negara maritim, Indonesia menyimpan potensi kekayaan sumber daya kelautan yang belum dieksplorasi dan dieksploitasi secara optimal, bahkan sebagian belum diketahui potensi yang sebenarnya dan untuk itu perlu data yang lengkap, akurat sehingga laut sebagai sumber daya alternatif yang dapat diperhitungkan pada masa mendatang akan semakin berkembang. Sebagai negara kepulauan yang memiliki potensi kelautan yang besar, seharusnya Indonesia dapat memaksimalkan potensi kelautan tersebut bagi kemajuan pembangunan ekonomi nasional.
+
+Kekayaan laut hayati yang ada di perairan Indonesia meliputi aneka jenis ikan, udang dan crustacea lainnya, molusca dan teripang, cumi, sephia, bunga karang, penyu laut, mamalia laut dan rumput laut. Adapun jenis-jenis ikan yang terdapat di perairan Indonesia meliputi ikan pelagis besar (seperti tuna, cakalang, marlin tongkol, tengiri dan cucut); ikan pelagis kecil (layar, selar, layang, teri,tembang, lemuru, dan kembung); ikan demersial (seperti kakap, kerapu, manyung,pari, bawal, gulamah,layur, peperek, kuniran dan beloso); ikan karang komersial (contohnya napoleon, kerapu tikus, kakap merah, beronang, lencam dan ekor kuning); udang; lobster dan cumi-cumi.
+
+Melihat potensi kelautan Indonesia, khususnya sumber daya perikanan, maka wilayah laut Indonesia merupakan ladang pendapatan nasional yang berpotensi sangat besar untuk memperbaiki kehidupan ekonomi rakyat, sehingga laut bukan sekedar menjadi sarana penghubung antarpulau tapi merupakan suatu tempat penghasil devisa bagi negara. Namun sayangnya, penangkapan ikan di Indonesia belum dilakukan secara berkesinambungan (sustainable) di samping banyak pencurian ikan di laut(illegalfishing) di beberapa wilayah perairan Indonesia.
+
+Dalam transaksi perdagangan internasional, nilai tukar mata uang atau kurs merupakan salah satu faktor yang ikut menentukan volume dan nilai dari perdagangan internasional tersebut. Mata uang yang sering digunakan oleh Indonesia dalam melakukan transaksi perdagangan internasional adalah kurs mata uang rupiah terhadap dollar Amerika Serikat. Kurs dollar Amerika Serikat merupakan kurs mata uang standar internasional yang nilainya relatif stabil dan merupakan mata uang yang kuat dan dapat dengan mudah untuk diperdagangkan serta dapat diterima oleh siapa saja sebagai pembayaran untuk transaksinya.
+
+Berdasarkan latar belakang yang telah dijelaskan, maka peneliti tertarik untuk melakukan penelitian terkait permasalahan yang ada dengan judul "ANALISIS EKSPOR IKAN SEGARA KE NEGARA MALAYSIA TERHADAP NILAI TUKAR RUPIAH TAHUN 2012-2021" untuk diteliti lebih lanjut.
+
+### Ruang lingkup
+
+Berdasarkan identifikasi masalah diatas, maka penulis hanya memfokuskan penelitian ini tentang perkembangan ekspor subsektor perikanan di Indonesia. Penelitian ini dilakukan atas data pada periode tahun 2012-2021.komoditas yang diteliti adalah komoditas ikan segar dengan HS Code 0302
+
+### Rumusan masalah
+
+Berdasarkan permasalahan yang telah diuraikan pada latar belakang diatas , maka yang menjadi rumusan masalah dalam penelitia ini adalah :
+
+1\. Bagaimana perkembangan ekspor subsektor perikanan di Indonesia?
+
+2.Apakah tingkat nilai tukar mata uang rupiah ke US\$ berpengaruh terhadap tingkat ekspor ikan segar Indonesia ke Malaysia?
+
+### Tujuan dan manfaat penelitian
+
+Berdasarkan Latar Belakang dan Identifikasi Masalah ,maka tujuan dari penelitian ini adalah:
+
+Untuk menganalisi perkembangan dan pertumbuhan ekspor subsektor perikanan di Indonesia dan mengetahui pengaruh nilai tukar terhadap ekspor ikan segar Indonesia ke malaysia.
+
+## Studi pustaka
+
+**Perdagangan Internasional**
+
+A. Pengertian perdagangan internasional
+
+Perdagangan yang terjadi antara dua negara atau lebih sering disebut per- dagangan internasional. Perdagangan antar negara ini bisa terjadi karena adanya selisih harga barang di berbagai negara yang disebabkan perbedaan dalam jumlah, jenis,kualitas dan cara mengkombinasikan faktor-faktor produksi, perbedaan dalam pendapatan dan selera. Jadi dapat disimpulkan perdagangan internasional dapat terjadi karena adanya perbedaan faktor-faktor yang mempengaruhi permintaan dan penawaran dari berbagai negara ( Nopirin, 1990). Dapat juga dikatakan bahwa ekspor komoditi suatu negara ke negara lain merupakan selisih antara penawaran domestik dengan permintaan domestik atau merupakan excess supply. Kondisi ini timbul karena adanya perbedaan harga domestik dengan harga internasional . Sedangkan harga internasional sendiri memiliki hubungan yang positif dengan ekspor ,yaitu apabila harga internasional semakin tinggi maka ekspor pun semakin meningkat. (Salvatore, 1997) Ekspor suatu komoditi juga berkaitan dengan nilai tukar mata uang domestik terhadap mata uang negara lain. Sehingga kebijakan ekspor suatu negara salah satu nya akan dipengaruhi dengan kebijakan devaluasi negara tersebut, hal ini dikarena kan untuk memperbaiki neraca pembayaran yang defisit salah satunya melalui peningkatan ekspor.
+
+Manfaat-manfat perdagangan internasional adalah sebagai berikut :
+
+a\. Perdagangan merupakan penggerak pertumbuhan ekonomi yang penting. perdagangan memperbesar kapasitas konsumsi suatu negara, menaikan output dunia, dan memberikan kemudahan untuk mendapaykan sumberdaya yang langka dan pasar dunia bagi produk yang apabila tanpa pasar maka negara-negara miskin tidak dapat berkembang.
+
+b\. Perdagangan cenderung untuk mendorong penyebaran keadilan internasional dan domestik secara lebih merata dengan menyamakan harga faktor produksi, meningkatkan pendapatan riil negara-negara yang berdagang, menjadikan penggunaan persediaan sumber daya dunia.
+
+c\. Perdagangan mambantu berbagai negara untuk mencapai pembangunan dengan meningkatkan peranan sektor ekonomi yang mempunyai keunggulan komparatif baik karena efisiensi, penggunaan tenaga kerja,maupun faktor produksi.
+
+d\. Dalam perdagangan bebas, harga dan biaya produksi internasional menentukan sampai seberapa jauh negara harus berdagang untuk mempertinggi kesejahteraan nasionalnya.
+
+e\. Akhirnya untuk meningkatkan pertumbuhan ekonomi dan pembangunan diperlukan adanya kebijaksanaan internasional yang berpandangan ke luar.
+
+B. Teori Perdagangan Internasional
+
+Perdagangan internasional sejak lama diyakini oleh dunia sebagai pemberi sumbangan yang baik bagi pertumbuhan ekonomi sebuah negara. Masyarakat di era merkantilisme yakni para ahli yang hidup pada era abad keenam belas dan ketujuh belas mengemukakan bahwa perdagangan luar negeri adalah kunci dari kekayaan suatu negara. Salah satu teori perdagangan internasional yakni teori klasik, teori klasik yang umum dikenal adalah Teori Keunggulan mutlak (Absolut Advantage Theory) dari Adam Smith, dan Teori Keunggulan Komparatif (Comparative Advantage Theory) dari J.S Mill dan David Ricardo. Dalam sub bagian ini akan menjelaskan Teori Keunggulan Mutlak dan Teori Keunggulan Komparatif.
+
+a\. Teori dari kaum Merkantilis
+
+Paham merkantilisme didasarkan atas suatu pemikiran bahwa peningkatan kesejahteraan negara tidak akan pernah dapat dipisahkan dari konflik kepentingan antarnegara yang bersangkutan. Jadi analisis tentang perdagangan internasional lebih di warnai kepentingan politis daripada kepentingan ekonomis. Kaum merkantilis menyarankan agar pemerintah campur tangan dalam setiap kegiatan ekonomi.Negara akan mendapatkan keuntungan dari perdagangan internasional yang dilakukan, jika terjadi surplus perdagangan terhadap negara lain.
+
+b\. Teori Keuangan Absolut dari Adam Smith
+
+Melalui bukunya yang berjudul wealth of nations tahun 1776, Adam Smith menyatakan bahwa suatu Negara akan mengkspor komoditi dimana Negara tersebut memiliki keunggukan absolute relatif terhadap mitra dagangnya. di pihak lain Negara akan mengimpor komoditas yang memiliki ketidak unggulan absolute,konsekuensi dan teori di setiap Negara akan berspesialisasi dalam memproduksi barang-barang yang memiliki keunggulan absolute untuk kemudian di tukarkan dengan komoditas yang tidakmemiliki keunggulan absolute.
+
+c\. Teori keunggulan komparatif
+
+Teori keunggulan komparatif dikemukakan oleh David Ricardo sebagai penyempurnaan dari pandangan Adam Smith. Menurut Ricardo bisa saja suatu negara tidak memiliki keunggulan absolut pada semua barang yang diproduksinya akan tetapi negara bersangkutan dapat mengekspor komoditi ketidakunggulan absolut terkecil (comparative advantage) dan mengimpor komoditi yang memiliki ketidakunggulan absolut terbesar (comparative disadvantage). Jika negara-negara merupakan doktrin tersebut menurut ricardo, negara-negara akan berspesialisasi pada barang-barang yang memiliki.
+
+**Ekspor**
+
+Ekspor dari satu negara merupakan impor untuk negara lain. Ekspor merupakan salah satu pemicu perkembangan nasional di setiap negara. Secara ringkas dapat dikatakan, dalam dunia yang sudah terbuka ini hampir tidak ada lagi satu negarapun yang benar-benar mandiri, tapi satu sama lain saling membutuhkan dan saling mengisi.Kenyataan ini meyakinkan kita akan bertambah pentingnya peranan perdagangan Internasional dalam masa mendatang untuk kepentingan ekonomi suatu negara.
+
+tujuan ekspor adalah:
+
+a\. Meningkatkan laba perusahaan melalui perluasan pasar serta untuk memperoleh harga jual yang lebih baik (optimalisasi laba).
+
+b\. Membuka pasar baru di luar negeri sebagai perluasan pasar domestik (membuka pasar ekspor).
+
+c\. Memanfaatkan kelebihan kapasitas terpasang (idle capcity).
+
+faktor-faktor yang mempengaruhi perkembangan ekspor antara lain :
+
+a\. Harga internasional. Semakin besar selisih antara harga di pasar internasional dengan harga domsetik akan menyebabkan jumlah komoditi yang akan diekspor menjadi bertambah banyak.
+
+b\. Nilai Tukar (exchange rate). Semakin tinggi nilai tukar mata uang suatu negara maka harga ekspor negara itu di pasar internasional akan menjadi lebih mahal. Sebaliknya, semakin rendah nilai mata uang suatu negara, harga ekspor negara itu di pasar internasional menjadi lebih murah.
+
+c\. Kebijakan tarif dan non tarif. Kebijakan tarif adalah untuk menjaga harga produk dalam negeri dalam tingkatan tertentu yang dianggap mampu atau dapat mendorong pengembangan suatu komoditi. Sedangkan kebijakan non tarif adalah untuk mendorong tujuan diversifikasi ekspor.
+
+**Ekspor perikanan**
+
+Peningkatan permintaan ikan dunia memberikan peluang yang besar bagi Indonesia untuk meningkatkan ekspor subsektor perikanan. Nilai perdagangan ikan dunia diperkirakan sebesar US\$ 100 milyar per tahun, dari jumla tersebut pangsa pasar Indonesia baru sekitar 3.5 persen (Windria, 2005). Pangsa pasar tersebut dapat dikatakan masih relatif kecil jika dibandingkan dengan potensi yang ada. Hal ini menunjukkan bahwa terdapat potensi ekspor yang besar untuk sektor perikanan Indonesia, namun peluang tersebut belum digarap secara optimal. Apabila peluang tersebut telah dimanfaatkan dengan optimal, maka sektor perikanan berpeluang untuk mendorong peningkatan ekspor netto Indonesia, sehingga dapat meningkatkan pendapatan nasional.
+
+**Nilai Tukar**
+
+Nilai tukar merupakan perbandingan nilai dua mata uang yang berbeda atau dikenal dengan sebutan kurs. nilai tukar didasarkan dua konsep. Pertama konsep nominal, merupakan konsep untuk mengukur perbedaan harga mata uang yang menyatakan berapa jumlah mata uang suatu Negara yang perlu guna memperoleh sejumlah mata uang dari Negara lain. kedua,konsep riil yang dipergunakan untuk mengukur daya saing komoditi ekspor suatu Negara dipasaran internasional.
+
+Nilai tukar atau spot adalah tingkat nilai tukar, dimana penyerahan barang dilakukan bersamaan dengan transaksi disetujui. Nilai tukar Fordward adalah tingkat nilai tukar yang dipakai dimana penyerahan barang dilakukan kemudian setelah transaksi tetapi harga yang dipakai adalah saat transaksi terjadi. Nilai tukar spot juga di bedakan antara tingkat nilai tukar atau kurs jual,atau kurs beli.
+
+Permintaan dan penawaran akan valuta asing akan membentuk tingkat nilai tukar suatu mata uang domestik dengan mata Negara lain.penawaran dan permintaan terhadap valuta asing timbul karena adanya hubungan internasional dalam perdagangan barang dan jasa,transfer atau hibah dari luar negeri.sedangkan permintaan valuta asing disebabkan adanya impor barang, jasa maupun kapital sehingga untuk menyelesaikan transaksi perlu menukarkan suatu mata uang domestik dengan valuta asing atau sebaliknya.
+
+## Metode penelitian
+
+### Data
+
+Data Ekspor Ikan Segar Ke Negara Malaysia Tahun 2012-2021
+
+| Tahun | Nilai Tukar (USD) | Nilai Tukar (IDR) |
+|-------|-------------------|-------------------|
+| 2012  | 34.121,2          | 512.954.236       |
+| 2013  | 35.821,0          | 538.507.839       |
+| 2014  | 34.968,3          | 525.688.944       |
+| 2015  | 65.104,4          | 978.733.977       |
+| 2016  | 31.851,0          | 478.825.638       |
+| 2017  | 30.745,6          | 462.207.828       |
+| 2018  | 35.031,9          | 526.645.062       |
+| 2019  | 50.970,4          | 766.253.314       |
+| 2020  | 47.183,7          | 709.326.717       |
+| 2021  | 47.336,3          | 711.620.799       |
+
+penelitian ini menggunakan data
+
+```{r}
+setwd('C:/Users/Ghalih/OneDrive/Documents/METOPEL UAS/UAS')
+library(readxl)
+dat<-read_excel("latihan1.xlsx")
+reg1<-lm(Y~X,data=dat)
+dat$u<-resid(reg1)
+plot(dat$Y,dat$X,ylab="Ekspor Ikan",xlab="Nilai Tukar")
+```
+
+### Metode analisis
+
+Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 2 variabel independen dan dependen. Penelitian ini menggunakan teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif
+
+## Pembahasan
+
+### Pembahasan masalah
+
+| variable  | coeficient | std. Error | t.value   | prob  |
+|-----------|------------|------------|-----------|-------|
+| intercept | 0.000e+00  | 3.140e-07  | 0.000e+00 | 1     |
+| X         | 1.503e+01  | 7.367e-15  | 2.041e+15 | 2e-16 |
+
+| R-Squared          | 1         |
+|--------------------|-----------|
+| Adjusted R-Squared | 1         |
+| F-Statistic        | 4.164e+30 |
+| Prob (F-statistic) | 2.2e-16   |
+
+Berdasarkan pada tabel diatas menunjukan bahwa nilai tukar ekspor ikan segar berpengaruh terhadap nilai ekspor . ditunjukan dengan dilihat dari probabilitas X yang signifikan . Dimana nilai ekspor menjadi faktor yang berpengaruh terhadap nilai tukar .Nilai koefisien sebesar 1.503e+01 . Dengan hasil ini maka dapat disimpulkan bahwa pendapat ekspor sangat berpengaruh positif terhadap nilai tukar rupiah.
+
+### Analisis masalah
+
+Hasil regresinya adalah
+
+```{r}
+library(readxl)
+dat<-read_excel("latihan1.xlsx")
+reg1<-lm(Y~X,data=dat)
+summary(reg1)
+```
+
+## Kesimpulan
+
+Hasil penelitian ini menunjukkan bahwa adanya peranan penting sektor perikanan terhadap pertumbuhan ekonomi di Indonesia,yang menunjukan bahwa Nilai ekspor ikan segar Indonesia ke malaysia dan nilai tukar rupiah terhadap dollar Amerika Serikat berpengaruh secara signifikan terhadap ekspor ikan segar ke Malaysia.
+
+pertumbuhan ekspor subsektor perikanan cendrung mengalami pertumbuhan yang cukup baik untuk menciptakan perkembangan Ekpor subsektor perikanan dengan sistem keberlanjutan dan dapat menambah kontribusi yang besar terhadap devisa negara saat ini .
+
+## Referensi
+
+Noni Ester Yesayas, Bambang Sugito1. (2021). ANALISIS EKSPOR IKAN KERAPU DI WILAYAH KANTOR PENGAWASAN DAN PELAYANAN BEACUKAI TIPE MADYA PABEAN C TUAL. SNTEM, 1, 1--6.
