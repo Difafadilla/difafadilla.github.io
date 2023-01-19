@@ -10,8 +10,6 @@ format:
 editor: visual
 ---
 
-This **just** a ~~showcase~~ of what *Quarto* docs can produce. I use this part for my students.
-
 ![](poltekapp.jpg)
 
 ## Pendahuluan
